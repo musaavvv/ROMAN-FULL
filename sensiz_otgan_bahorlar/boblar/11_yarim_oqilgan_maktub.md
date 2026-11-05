@@ -1,4 +1,4 @@
-# XI
+# XI. Yarim o‘qilgan maktub
 
 Daftarning o‘n yettinchi varag‘ida bir tuya yuki ikki marta yozilgandi. Tohir avval siyoh rangiga qaradi. Birinchi yozuv qoramtir, ikkinchisi xira. Demak, kotib kechga yaqin charchagan. U raqamning ustidan chiziq tortmadi. Yoniga kichik belgi qo‘yib, qamish qalamni siyohdon labiga suyadi.
 
@@ -40,7 +40,7 @@ Xatning tashiga mayda, tekis harflar bilan Samandar Orif o‘g‘lining ismi yoz
 
 Boqi kursiga cho‘kdi. Tizzasini ikki kaftlab bir oz ishqaladi.
 
-— O‘tgan yozda Umar bo‘yoqchining bolasi berdi. Karvon allaqachon chiqib ketgandi. Yetkazaman, dedim. Yo‘l Nurota tomonga burildi. Keyin qish tushdi. Karmanaga boradigan odamga beraman deb xurjunimda olib yurdim. Ishonchli qo‘l topilmadi.
+— Bir yarim yilcha oldin Umar bo‘yoqchining bolasi berdi. Karvon allaqachon chiqib ketgandi. Yetkazaman, dedim. Yo‘l Nurota tomonga burildi. Keyin qish tushdi. Karmanaga boradigan odamga beraman deb xurjunimda olib yurdim. Ishonchli qo‘l topilmadi.
 
 — Endi-chi?
 
@@ -84,7 +84,7 @@ U eshikdan chiqayotib qayrilib qaradi.
 
 Boqi kulib ketdi. Tohir xatni tilxatlar orasiga qo‘ydi. Ko‘k ipning bir uchi tashqarida qoldi. U ipni ichkariga bukmoqchi bo‘ldi, so‘ng qo‘lini tortdi.
 
-Karvon Karmanaga keyingi hafta emas, o‘n kundan keyin jo‘nardi. Buni u hozirdan bilardi. Otasi ikki to‘p gazlamaning pulini kutayotgan edi. Xat uchun esa o‘n kun uzoq muddat emas. Bir yoz bilan bir qishni xurjunda o‘tkazgan qog‘oz yana o‘n kun kutardi.
+Karvon Karmanaga keyingi hafta emas, o‘n kundan keyin jo‘nardi. Buni u hozirdan bilardi. Otasi ikki to‘p gazlamaning pulini kutayotgan edi. Xat uchun esa o‘n kun uzoq muddat emas. Qariyb bir yarim yilni xurjunda o‘tkazgan qog‘oz yana o‘n kun kutardi.
 
 Eshik oldidan hammol ikki to‘p chit ko‘tarib o‘tdi. Orqadagi shogird uning belbog‘idan ushlab olgan, yo‘qsa gumbaz soyasida odamlar orasiga urilardi. Tohir ularni kuzatib turdi. Oldindagi kishi yukning og‘irligini biladi. Orqadagi esa faqat qo‘yib yuborsa nima bo‘lishidan qo‘rqadi. Ikkalasi ham bir arqonga bog‘langan.
 
@@ -296,7 +296,7 @@ Qodirbek o‘g‘lining chetga olgan mayizini ko‘rdi. Uni ikki barmog‘i bila
 
 — Ne’matni ajratma.
 
-Ovqatdan keyin Tohir hovuzcha yonida qo‘lini yuvdi. Suv sovuq edi. Xizmatkor eski sochiq uzatdi. Uning bir burchagiga qizil ip bilan «Q» harfi tikilgan, oyog‘i qiyshiq chiqibdi. Bu ishni onasi tiriklik paytida qilgan bo‘lsa kerak. Qodirbek sochiqni har kuni ko‘rar, ammo qiyshiq harfni tuzatmagan.
+Ovqatdan keyin Tohir hovuzcha yonida qo‘lini yuvdi. Suv sovuq edi. Xizmatkor eski sochiq uzatdi. Uning bir burchagiga qizil ip bilan «Q» harfi tikilgan, oyog‘i qiyshiq chiqibdi. Bu ishni Qodirbekning onasi tiriklik paytida qilgan bo‘lsa kerak. Qodirbek sochiqni har kuni ko‘rar, ammo qiyshiq harfni tuzatmagan.
 
 — Ota, — dedi Tohir.
 

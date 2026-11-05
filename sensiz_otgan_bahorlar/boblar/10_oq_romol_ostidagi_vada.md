@@ -1,4 +1,4 @@
-# X
+# X. Oq ro‘mol ostidagi va’da
 
 Bahor hovliga avval bodom daraxtining ingichka shoxlaridan kirdi. Kecha ochilgan gullar tong sovug‘ida oqarib turar, ayvon tagidagi qoramtir yer esa qishni hali qo‘yib yubormagandi. Mohinur bo‘yoq qozonining qopqog‘ini ko‘tardi. Sovigan suv yuzida qizil po‘stloq paydo bo‘libdi. U cho‘p bilan chetini sekin teshdi. Po‘stloq matoning eski yirtig‘idek ikki tomonga ajraldi.
 

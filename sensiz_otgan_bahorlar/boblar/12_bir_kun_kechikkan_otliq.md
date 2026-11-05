@@ -1,4 +1,4 @@
-# XII
+# XII. Bir kun kechikkan otliq
 
 Samandar otining jilovini tortib, oldindagi cho‘kkan tuyaga yo‘l berdi. Tuya loydan oyog‘ini chiqarolmay, bo‘ynini cho‘zdi. Qo‘ng‘irog‘i bir marta jarangladi. Karvonchi uning yukini bo‘shatmaguncha boshqa hayvonlar ham tor yo‘lda tizilib qoldi.
 
@@ -10,7 +10,7 @@ Samandar joyidan qimirlamadi. Yo‘l cheti nam, undan chiqsa otning tuyog‘i bo
 
 U choponi ichidan charm jildni paypasladi. Jild quruq. Bog‘ichi mahkam.
 
-Karmanadagi kotib nusxani uch kecha oldin bergandi. Eshigini ichkaridan berkitib, moychiroqni pastlatgan. So‘ng eski daftarning bir-biriga qaragan ikki varag‘ini ko‘chirib, pastiga o‘z qo‘li bilan ko‘rganini yozgan edi. Bir varaqda Orif usta nomiga qo‘yilgan qarz sanasi bor. Ikkinchisida o‘sha hisob avvalroq yopilgani ko‘rinadi. Quruq muhr esa keyingi yozuvga keyin bosilgan: siyohning cheti muhr izi ostida yotmas, ustiga yoyilib qolgan.
+Karmanadagi kotib nusxani uch kecha oldin bergandi. Eshigini ichkaridan berkitib, moychiroqni pastlatgan. So‘ng eski daftarning bir-biriga qaragan ikki varag‘ini ko‘chirib, pastiga o‘z qo‘li bilan ko‘rganini yozgan edi. Bir varaqda Orif usta nomiga qo‘yilgan qarz sanasi bor. Ikkinchisida o‘sha hisob avvalroq yopilgani ko‘rinadi. Quruq muhr keyingi yozuvdan oldin bosilgan: siyohning cheti muhr izi ostida yotmas, uning ustiga yoyilib qolgan.
 
 — Aslini berolmayman, — degan kotib.
 
@@ -356,7 +356,7 @@ Samandar bolaning yuziga qaradi. Otabek o‘sha bitta so‘zni bir yarim yil ko�
 
 — Xatni topamiz, — dedi Samandar.
 
-Bu va’da emasdi. Faqat endi qidirilishi kerak bo‘lgan yana bir dalil bor edi.
+Endi qidirilishi kerak bo‘lgan yana bir dalil bor edi. Samandar so‘zining va’daga aylanishiga yo‘l qo‘ymadi.
 
 — Nima yozganini bilasanmi?
 
